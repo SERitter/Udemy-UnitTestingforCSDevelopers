@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/EntityFrameworkOptions/IsAlreadyNotifiedAboutEntityFramework/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=878de38f_002Deb83_002D442e_002D85c8_002Db67982651e30/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CanBeCancelledBy_UserIsAdmin_ReturnsTrue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.ReservationTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.MathTests.Add_WhenCalled_ReturnTheSumOfArguments&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.MathTests.Max_FirstArgumentIsGreater_ReturnTheFirstArgument&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.MathTests.Max_SecondArgumentIsGreater_ReturnTheSecondArgument&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.MathTests.Max_ArgumentsAreEqual_ReturnTheSameArgument&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.MathTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.HtmlFormatterTests.FormatAsBold_WhenCalled_ShouldEncloseTheStringWithStrongElement&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.CustomerControllerTests.GetCustomer_IdIsZero_ReturnNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.CustomerControllerTests.GetCustomer_IdIsNotZero_ReturnOk&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.ErrorLoggerTests.Log_WhenCalled_SetTheLastErrorProperty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.ErrorLoggerTests.Log_InvalidError_ThrowArgumentNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.ErrorLoggerTests.Log_ValidError_RaiseErrorLoggedEvent&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
