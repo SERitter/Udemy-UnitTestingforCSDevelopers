@@ -14,5 +14,26 @@
     &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.ErrorLoggerTests.Log_WhenCalled_SetTheLastErrorProperty&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.ErrorLoggerTests.Log_InvalidError_ThrowArgumentNullException&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.ErrorLoggerTests.Log_ValidError_RaiseErrorLoggedEvent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.FizzBuzzTests.GetOutput_InputIsNotDivisibleBy3Or5_ReturnTheSameNumber&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.FizzBuzzTests.GetOutput_InputIsDivisibleBy5Only_ReturnBuzz&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.FizzBuzzTests.GetOutput_InputIsDivisibleBy3Only_ReturnFizz&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.FizzBuzzTests.GetOutput_InputIsDivisibleBy3And5_ReturnFizzBuzz&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.DemeritPointsCalculatorTests.CalculateDemeritPoints_SpeedIsNegative_ThrowArgumentOutOfRangeException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.DemeritPointsCalculatorTests.CalculateDemeritPoints_SpeedIsOutOfRange_ThrowArgumentOutOfRangeException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.DemeritPointsCalculatorTests.CalculateDemeritPoints_SpeedIsOutOfRange_ThrowArgumentOutOfRangeException(-1)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.DemeritPointsCalculatorTests.CalculateDemeritPoints_SpeedIsOutOfRange_ThrowArgumentOutOfRangeException(301)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.DemeritPointsCalculatorTests.CalculateDemeritPoints_WhenCalled_ReturnDemeritPoints&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Push_ArgIsNull_ThrowArgNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Push_ValidArg_AddTheObjectToTheStack&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Count_EmptyStack_ReturnZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Pop_EmptyStack_ThrowInvalidOperationException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Pop_StackWithAFewObjects_ReturnObjectOnTheTop&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Pop_StackWithAFewObjects_RemoveObjectOnTheTop&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Peek_EmptyStack_ThrowInvalidOperationException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Peek_StackWithObjects_ReturnObjectOnTopOfTheStack&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.StackTests.Peek_StackWithObjects_DoesNotRemoveTheObjectOnTopOfTheStack&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.VideoServiceTests.ReadVideoTitle_EmptyFile_ReturnErrorMessage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.OrderServiceTests.PlaceOrder_WhenCalled_StoreTheOrder&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::89C70DF1-19D6-4BED-97DF-032BC0AAE04E::.NETFramework,Version=v4.7.2::TestNinja.UnitTests.Mocking.ProductTests.GetPrice_GoldCustomer_Apply30PercentDiscount&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

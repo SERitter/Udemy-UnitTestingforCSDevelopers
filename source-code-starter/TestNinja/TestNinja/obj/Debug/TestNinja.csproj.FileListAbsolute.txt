@@ -25,3 +25,17 @@ C:\Udemy\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinj
 C:\Udemy\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
 C:\Udemy\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.dll
 C:\Udemy\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+C:\GitHub\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\GitHub\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\GitHub\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\GitHub\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\GitHub\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\GitHub\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.AssemblyReference.cache
+C:\GitHub\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\GitHub\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+C:\GitHub\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\GitHub\Udemy-UnitTestingforCSDevelopers\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
